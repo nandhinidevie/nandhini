@@ -1,6 +1,6 @@
 # My Fastn Site
 
-<user_name>.github.io/<repo_name> is created using [doc-site](https://fastn-community.github.io/doc-site/).
+nandhinidevie.github.io/nandhini is created using [doc-site](https://fastn-community.github.io/doc-site/).
 
 ## Get Rolling
 
